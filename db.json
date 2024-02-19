@@ -1,4 +1,17 @@
 {
+  "expense": [
+    {
+      "id": 1,
+      "name": "Fees",
+      "category": "Education",
+      "date": "27 February,2023",
+      "amount": 20000,
+      "update": "2 days ago",
+      "user": "Smith M"
+    }
+  ],
+  "login": [],
+  "signup": [],
   "user": [
     {
       "id": "1",
